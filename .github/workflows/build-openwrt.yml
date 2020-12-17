@@ -32,7 +32,7 @@ on:
 
 
 #点☆Star触发开始编
-  watch
+  watch:
     types: started
 
 
